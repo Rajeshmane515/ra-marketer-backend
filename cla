@@ -1,0 +1,17 @@
+[33mcommit 49d72db4c0e47e7d0d985430db1d9903c12c6044[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rajeshmane515 <Rajeshmane515@gmail.com>
+Date:   Thu Aug 13 22:22:07 2026 +0530
+
+    Remove environment variables from repository
+
+[33mcommit 7887876a2e6e8366c469d99a8a944f019ba11c95[m
+Author: Rajeshmane515 <Rajeshmane515@gmail.com>
+Date:   Thu Aug 13 21:16:52 2026 +0530
+
+    Admin dashboard updated
+
+[33mcommit 9bf8866afcbd7b548971832fa0264ac3b7e5b60a[m
+Author: Rajeshmane515 <Rajeshmane515@gmail.com>
+Date:   Thu Jun 18 20:25:16 2026 +0530
+
+    Fixed backend API URL
